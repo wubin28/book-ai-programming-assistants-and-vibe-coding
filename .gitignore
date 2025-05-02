@@ -1,0 +1,61 @@
+# Dependencies
+**/node_modules/
+
+# Build outputs
+**/dist/
+**/dist-ssr/
+**/build/
+
+# Environment files
+**/.env
+**/.env.*
+!**/.env.example
+
+# IDE and editor files - ensure these patterns match in all subdirectories
+**/.vscode/*
+!**/.vscode/extensions.json
+**/.idea/
+**/*.suo
+**/*.ntvs*
+**/*.njsproj
+**/*.sln
+**/*.sw?
+**/.project
+**/.classpath
+**/.settings/
+**/.factorypath
+**/*.iml
+**/*.iws
+**/*.ipr
+**/.fleet/
+
+# OS generated files
+**/.DS_Store
+**/.DS_Store?
+**/._*
+**/.Spotlight-V100
+**/.Trashes
+**/ehthumbs.db
+**/Thumbs.db
+
+# Logs
+**/logs/
+**/*.log
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/pnpm-debug.log*
+**/lerna-debug.log*
+
+# Testing
+**/coverage/
+
+# Temporary files
+**/*.local
+
+# Frontend specific
+**/frontend/.bolt/
+**/frontend/public/hot
+
+# Backend specific
+**/backend/tmp/
