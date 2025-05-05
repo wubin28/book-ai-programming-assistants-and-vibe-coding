@@ -1,9 +1,9 @@
 import { defineConfig } from 'vitest/config';
-import '@testing-library/jest-dom'
 
 export default defineConfig({
   test: {
-    environment: 'jsdom',
-    setupFiles: './src/test/setup.ts',
-  },
+    // 指向您的设置文件
+    setupFiles: ['./setupTests.js'],
+    // 其他 Vitest 配置...
+  }
 });
