@@ -231,6 +231,41 @@ AI编程助手的兴起源于2021年6月GitHub发布的GitHub Copilot。该工�
 - **全流程AI辅助开发**：覆盖**需求分析→架构设计→编码→测试→评审**全流程，展示AI如何真正提升开发效率，而不仅是代码生成。
 - **经久不衰的方法论**：即使未来AI工具迭代，书中提供的**评估框架、提示词技巧、实战方法论**仍可持续适用，延长书籍生命周期。
 
+## 同类书情况
+
+- 《AI辅助编程实战》；[美] 汤姆·陶利（Tom Taulli）著，成海霞译；2024年10月1日；人民邮电出版社；69.8元；豆瓣评分4.4分。该书仅面向IT开发人员讲解AI提示词编写，AI工具介绍仅罗列网上可查的信息，缺乏实战内容。
+
+![AI辅助编程实战](./AI辅助编程实战.jpg)
+
+- 《AI辅助编程入门：使用GitHub Copilot零基础开发LLM应用》；李特丽/CSS魔法编著；2024.11.01；电子工业出版社博文视点；89元；豆瓣评价人数不足。该书末尾提供2章实战内容。重点介绍GitHub Copilot工具。
+
+![AI辅助编程入门](./AI辅助编程入门.jpg)
+
+- 《AI辅助编程Python实战：基于GitHub Copilot和ChatGPT》；[美] 利奥·波特（Leo Porter） 著，CSS魔法 译；2025.03.01；人民邮电出版社异步图书；89.8元；豆瓣目前无人评价。该书侧重于通过 AI 学习 Python。介绍了GitHub Copilot 和 ChatGPT两种AI编程助手。
+
+![AI辅助编程Python实战](./AI辅助编程Python实战.jpg)
+
+- 《用Cursor玩转AI辅助编程：不写代码也能做软件开发》；程序员御风著；2025年4月；电子工业出版社博文视点；89元；豆瓣目前无人评价。该书重点介绍如何用Cursor实现个人作品集网站和销售数据分析的后端（Python）与前端（Vue.js）应用。
+
+![用Cursor玩转AI辅助编程](./用Cursor玩转AI辅助编程.jpg)
+
+- 《AIGC自动化编程：基于ChatGPT和GitHub Copilot》；李宁著；2023年10月；人民邮电出版社异步社区；79.8元；豆瓣评价人数不足。该书重点介绍如何用GitHub Copilot和ChatGPT编写桌面应用、Web应用、游戏、办公自动化等应用。
+
+![AIGC自动化编程](./AIGC自动化编程.jpg)
+
+- 《大模型辅助软件开发：方法与实战》；张刚著；2024.08.01；人民邮电出版社图灵；63元；豆瓣评价人数不足。该书围绕真实的案例，借助大模型，实现从业务探索、需求分析、架构设计、编码实现到上线运行的完整过程。
+
+![大模型辅助软件开发](./大模型辅助软件开发.jpg)
+
+- 《AI-Assisted Programming for Web and Machine Learning》；Christoffer Noring等著；2024年；Packt。该书讨论如何构建应用程序和机器学习模型并实现重复任务自动化。
+
+![AI-Assisted Programming for Web and Machine Learning](./AI-Assisted-Programming-for-Web-and-Machine-Learning.png)
+
+- 《Mastering react through ai assisted programming》；Alexander Zanfir著；2024.01.31；独立出版。该书讨论了如何用ChatGPT实现全栈MERN（MongoDB、Express、React、Node.js）的博客web app项目。
+
+![Mastering react through ai assisted programming](./Mastering-react-through-ai-assisted-programming.jpg)
+
+
 ## 本代码库仓库结构
 
 每章都有独立的目录，包含相应的项目代码示例。结构组织如下：
